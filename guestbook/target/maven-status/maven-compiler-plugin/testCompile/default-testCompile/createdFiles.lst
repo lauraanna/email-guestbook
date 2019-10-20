@@ -1,0 +1,4 @@
+guestbook/GuestbookControllerIntegrationTests.class
+guestbook/GuestbookEntryUnitTests.class
+guestbook/GuestbookControllerUnitTests.class
+guestbook/GuestbookRepositoryIntegrationTests.class
